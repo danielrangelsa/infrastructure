@@ -1,6 +1,6 @@
 # Configurando WavesNode
----
-> A instalação do WavesNode será realizada em Ubuntu 16.04
+
+A instalação do WavesNode será realizada em Ubuntu 16.04
 
 Instalar Java 
 `sudo apt-get update`   

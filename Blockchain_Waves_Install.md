@@ -27,3 +27,5 @@ Instalar o pacote WavesNode Baixado
 `sudo -u waves importer /etc/waves/waves.conf /usr/share/waves/mainnet-1056272`     
 
 O processo pode levar dias dependendo do poder do seu computador. Apenas aguarde e aproveite.
+
+ps.: Atualizarei em breve para as novas versões.

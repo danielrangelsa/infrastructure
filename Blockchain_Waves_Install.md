@@ -28,4 +28,4 @@ Instalar o pacote WavesNode Baixado
 
 O processo pode levar dias dependendo do poder do seu computador. Apenas aguarde e aproveite.
 
-ps.: Atualizarei em breve para as novas versões.
+ps.: Atualizarei em breve para as novas versões e também trarei guias para criar um custom node bem como um exemplo de arquivo de configuração.

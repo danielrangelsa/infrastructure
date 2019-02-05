@@ -35,5 +35,3 @@
 > (config-t)#interface f0/0     
 > (config-if)#ip helper-address 192.168.4.1 
 
-
-*Ler mais: http://ti-redes.webnode.com.br/roteamento/dhcp/cisco/* 
